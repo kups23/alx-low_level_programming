@@ -2,5 +2,4 @@
 - 0-preprocessor script created to run file through preprocessor and save in a file
 - 1-compiler script created to compile a file but does not link
 - 2-assembler script created to generate assembly code of C and save in a file
-- 3-name script created executable file called cisfun
-- 4-puts.c script created to print out a string of words    
+- 3-name script created executable file called cisfun   
