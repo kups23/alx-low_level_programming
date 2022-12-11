@@ -5,4 +5,5 @@
 - 3-name script created executable file called cisfun 
 - 4-puts.c print out string using put funciton
 - 5-printf.c print out string using printf function
-- 6-size.c print out size of various types   
+- 6-size.c print out size of various types
+- 100-intel script created to generate assembly code in Intel Syntax   
