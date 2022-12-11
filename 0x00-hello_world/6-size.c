@@ -4,7 +4,7 @@
  * main - entry point
  * prints the size of various types
  *
- * Returns: always return 0
+ * Return: always return 0
 */
 int main(void)
 {
