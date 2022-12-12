@@ -9,4 +9,5 @@
 - 7-print_tebahpla.c program prints lowcase alphabet in reverse order
 - 8-print_base16.c program prints hexadecimal in lowercase
 - 9-print_comb.c program prints possible combination of single number seperated by , and space 
-- 100-print_comb3.c program prints all possible different combinations of two digits  
+- 100-print_comb3.c program prints all possible different combinations of two digits
+- 101-print_comb4.c program brints combination of three digits numbers  
