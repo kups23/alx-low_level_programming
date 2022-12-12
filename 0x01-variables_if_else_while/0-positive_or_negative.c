@@ -4,6 +4,7 @@
 
 /**
  * main - first entry point
+ *Print out random number and perform taks with them
  * 
  * Return: always 0
 */
@@ -19,7 +20,7 @@ int main(void)
 	}
 	else if (n == 0)
 	{
-		printf ("%d is a zero\n", n);
+		printf ("%d is zero\n", n);
 	}
 	else if (n < 0)
 	{
