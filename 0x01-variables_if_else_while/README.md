@@ -10,4 +10,5 @@
 - 8-print_base16.c program prints hexadecimal in lowercase
 - 9-print_comb.c program prints possible combination of single number seperated by , and space 
 - 100-print_comb3.c program prints all possible different combinations of two digits
-- 101-print_comb4.c program brints combination of three digits numbers  
+- 101-print_comb4.c program prints combination of three digits numbers
+- 102-print_comb5.c programs prints possible combination of three digit number  
