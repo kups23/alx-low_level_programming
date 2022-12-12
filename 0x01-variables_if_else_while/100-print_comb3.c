@@ -13,7 +13,7 @@ int main(void)
 	int j;
 	
 	j = '0';
-	for ( i = '0'; i <= '9' i++)
+	for ( i = '0'; i <= '9'; i++)
 	{
 		while (j <= '9')
 		{
