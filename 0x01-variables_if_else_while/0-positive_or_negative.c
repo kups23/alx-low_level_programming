@@ -4,7 +4,7 @@
 
 /**
  * main - first entry point
- *Print out random number and perform taks with them
+ * Print out random number and perform taks with them
  * 
  * Return: always 0
 */
