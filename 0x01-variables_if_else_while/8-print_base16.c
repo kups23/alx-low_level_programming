@@ -11,8 +11,8 @@ int main(void)
 {
 	char i;
 	char j;
-	j = 'a';
 
+	j = 'a';
 	for (i = '0'; i <= '9'; i++)
 	{
 		putchar(i);
