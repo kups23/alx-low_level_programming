@@ -7,4 +7,5 @@
 - 5-print_numbers.c program prints number of base 10
 - 6-print_numberz.c program prints number of base 10 using only putchar
 - 7-print_tebahpla.c program prints lowcase alphabet in reverse order
-- 8-print_base16.c program prints hexadecimal in lowercase  
+- 8-print_base16.c program prints hexadecimal in lowercase
+- 9-print_comb.c program prints possible combination of single number seperated by , and space   
