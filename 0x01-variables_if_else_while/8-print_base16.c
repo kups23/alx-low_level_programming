@@ -21,7 +21,7 @@ int main(void)
 	
 	while (j <= 'f')
 	{
-		putchar(j)
+		putchar(j);
 		j++;
 	}
 	putchar('\n');
