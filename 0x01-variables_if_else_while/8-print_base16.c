@@ -11,14 +11,12 @@ int main(void)
 {
 	char i;
 	char j;
+	j = 'a';
 
 	for (i = '0'; i <= '9'; i++)
 	{
 		putchar(i);
-	}
-
-	j = 'a';
-	
+	}	
 	while (j <= 'f')
 	{
 		putchar(j);
