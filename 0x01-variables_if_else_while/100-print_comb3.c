@@ -15,7 +15,7 @@ int main(void)
 	j = '0';
 	for ( i = '0'; i <= '9'; i++)
 	{
-		while (j <= '9')
+		for (j = '0'; j <= '9'; j++)
 		{
 			if (i < j)
 			{
@@ -26,7 +26,6 @@ int main(void)
 					putchar(',');
 					putchar(' ');
 				}
-				j++;
 			}
 		}
 	}
