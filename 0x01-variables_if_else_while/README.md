@@ -3,3 +3,4 @@
 - 1-last_digit.c randomly assign number and perform test on them
 - 2-print_alphabet.c program converts to lowercase alphabet
 - 3-print_alphabets.c program converts strings to both capital and lower case later
+- 4-print_alphabt.c program prints lower case character with some exception to q and e
