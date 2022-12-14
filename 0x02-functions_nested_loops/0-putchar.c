@@ -11,9 +11,10 @@ int main(void)
 	char str[9] = "_putchar";
 	int i;
 
-	for (i = '0'; i <= '8'; i++)
+	for (i = 0; i < 8; i++)
 	{
 		_putchar(str[i]);
 	}
+	_putchar(9);
 	return (0);
 }	
