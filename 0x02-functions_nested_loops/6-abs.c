@@ -2,6 +2,7 @@
 
 /**
  * _abs - prints the absolute value of a number
+ * @i: character to be checked
  * Return: always return value of targeted or 0
 */
 int _abs(int i)
