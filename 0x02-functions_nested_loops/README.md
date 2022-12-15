@@ -5,4 +5,5 @@
 - 3-islower.c program checks for  a lowercase letter
 - 4-isalpha.c programs checks for occurrance of alphabet
 - 5-sign.c program print out certain character based on the number
-- 6-abs.c program checks for value and return value or 0 
+- 6-abs.c program checks for value and return value or 0
+- 7-print_last_digit.c programs print last digit  
