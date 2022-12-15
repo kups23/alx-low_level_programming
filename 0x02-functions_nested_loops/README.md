@@ -3,3 +3,4 @@
 - 1-alphabet.c program prints alphabet in lowercase
 - 2-print_alphabet_x10.c program prints alphabet 10 times 
 - 3-islower.c program checks for  a lowercase letter
+- 4-isalpha.c programs checks for occurrance of alphabet
