@@ -1,33 +1,25 @@
-#inlcude "main.h"
-
+#include "main.h"
 /**
- * print_diagonal - function prints diagonal
- * @n: parameter to be used
- *
- * Return: returns nothing
-*/
+ * *print_diagonal - function  prints a diagonal
+ * *@n:parameter
+ * *Return:returns nothing
+ * */
 void print_diagonal(int n)
 {
-	int sp,len;
-
-	sp = 0;
-
-	while (n  > 0)
+	int len, s;
+	if (n > 0)
 	{
-		len = sp;
-		while (len > 0)
+		for (len = 0; len < n; len++)
 		{
-			_putchar(' ');
-			len--;
+			for (s = 0; s < len; space++)
+				_putchar(' ');
+
+			_putchar('\\');
+
+			if (len == (n - 1))
+				continue;
+			_putchar('\n');
 		}
-		_putchar('\\');
-		_putchar('\n');
-		sp++;
-		n--;
 	}
-	if (sp < 1)
-	{
-		_putchar('\n');
-	}
+	_putchar('\n');
 }
-	
