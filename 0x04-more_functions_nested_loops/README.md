@@ -7,4 +7,4 @@
 - 5-more_numbers.c program prints from 0 -14 ten times
 - 6-print_line.c functions that draws line 
 - 7-print_diagonal.c program prints diagonal  
-
+- 8-print_square.c print the square of size 
