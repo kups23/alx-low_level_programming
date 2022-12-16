@@ -8,4 +8,5 @@
 - 6-print_line.c functions that draws line 
 - 7-print_diagonal.c program prints diagonal  
 - 8-print_square.c print the square of size 
-- 9-fizz_buzz.c  print number with different  conditions from 1-100 
+- 9-fizz_buzz.c  print number with different  conditions from 1-100
+- 10-print_triangle.c program prints triangle  
