@@ -10,4 +10,5 @@
 - 8-print_square.c print the square of size 
 - 9-fizz_buzz.c  print number with different  conditions from 1-100
 - 10-print_triangle.c program prints triangle
-- 100-prime_factor.c program print largest prime factor   
+- 100-prime_factor.c program print largest prime factor
+- 101-print_number.c programs prints interger    
