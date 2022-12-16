@@ -13,7 +13,7 @@ int main(void)
 	{
 		if (i % 3 == 0)
 		{ 
-			pritnf("Fizz");
+			printf("Fizz");
 		}
 		else if (i % 5 == 0)
 		{
@@ -25,7 +25,7 @@ int main(void)
 		}
 		else
 		{
-			printf(i);
+			printf("%d", i);
 		}
 		if (i != 100)
 		{
