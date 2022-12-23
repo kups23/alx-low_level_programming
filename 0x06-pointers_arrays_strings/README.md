@@ -8,4 +8,5 @@
 - 6-cap_string.c functions  capitalizes all words of string
 - 7-leet.c functions  encodes string to 1337
 - 100-rot13.c functions encodes string to rot13
-- 101-print_number.c functions priants an interger       
+- 101-print_number.c functions priants an interger
+- 102-magic.c modifying  line of code        
