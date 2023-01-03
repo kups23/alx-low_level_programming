@@ -4,4 +4,5 @@
 - 2-strchr.c function created to locate character in a string.
 - 3-strspn.c function created to print first occurance of character.
 - 4-strpbrk.c function created to search string for any occurance.
-- 5-strstr.c function created to locate a substring. 
+- 5-strstr.c function created to locate a substring.
+- 7-print_chessboard.c functions prints chessboard.  
