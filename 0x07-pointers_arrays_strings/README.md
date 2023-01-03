@@ -6,4 +6,5 @@
 - 4-strpbrk.c function created to search string for any occurance.
 - 5-strstr.c function created to locate a substring.
 - 7-print_chessboard.c function prints chessboard.
-- 8-print_diagsums.c function prints sum of diagonal. 
+- 8-print_diagsums.c function prints sum of diagonal.
+- 100-set_string.c function sets value of pointer to char.  
