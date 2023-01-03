@@ -5,4 +5,5 @@
 - 3-strspn.c function created to print first occurance of character.
 - 4-strpbrk.c function created to search string for any occurance.
 - 5-strstr.c function created to locate a substring.
-- 7-print_chessboard.c functions prints chessboard.  
+- 7-print_chessboard.c function prints chessboard.
+- 8-print_diagsums.c function prints sum of diagonal. 
