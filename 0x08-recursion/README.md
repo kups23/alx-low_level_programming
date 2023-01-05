@@ -6,4 +6,5 @@
 - 4-pow_recursion.c returns value raised to a power 
 - 5-sqrt_recursion.c function returns square root of a number
 - 6-is_prime_number.c function checks for prime number
-- 100-is_palindrome.c returns 1 for palindrome string       
+- 100-is_palindrome.c returns 1 for palindrome string
+- 101-wildcmp.c functions compares two string and returns some functions       
