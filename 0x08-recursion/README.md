@@ -4,4 +4,5 @@
 - 2-strlen_recursion.c function returns length of string
 - 3-factorial.c function returns factorial
 - 4-pow_recursion.c returns value raised to a power 
-- 5-sqrt_recursion.c function returns square root of a number      
+- 5-sqrt_recursion.c function returns square root of a number
+- 6-is_prime_number.c function checks for prime number      
