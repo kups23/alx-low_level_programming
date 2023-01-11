@@ -1,4 +1,4 @@
-#inlcude "main.h"
+#include  "main.h"
 
 /**
  * _strlen - counts and returns string length
@@ -33,7 +33,7 @@ char *str_concat(char *s1, char *s2)
 	unsigned int i;
 	unsigned int j;
 	int total = 0;
-	if (!s1)
+	if (s1 == NULL)
 	{
 		s1 = "";
 	}
