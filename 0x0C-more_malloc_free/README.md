@@ -3,4 +3,5 @@
 - 1-string_nconcat.c function  concatenents two string
 - 2-calloc.c  function  allocates memory  for an array 
 - 3-array_range.c function creates an array of intergers
-- 100-realloc.c functions uses malloc and free commands     
+- 100-realloc.c function uses malloc and free commands
+- 101-mul.c function multiplies  two positive numbers      
